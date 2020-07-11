@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    font-size: 22pt;
+}
+p{
+    font-size: 12pt;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+header{
+    width: 100%;
+    height: auto;
+}
+header img{
+    width: 100%;
+    height: auto;
+}
+.nav{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.item{
+    margin: 5px 10px;
+}
+.contenido{
+    width: 80%;
+    padding: 0px 10%;
+    margin: 20px 0px;
+}
+
+.titulo h1{
+    width: 100%;
+    text-align: center;
+}
+ul{
+    width: 100%;
+    justify-content: center;
+}
+li{
+    text-align: center;
+    list-style: none;
+    font-weight: 700;
+}
+.mensaje-bienvenida{
+    display: flex;
+    justify-content: center;
+}

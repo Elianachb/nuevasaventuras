@@ -1,0 +1,32 @@
+<html>
+
+<head>
+
+<title> Nuevas Aventuras </title>
+</head>
+
+<body>
+
+<header>
+<div>
+<img src="bienvenidos.jpg" width="360" alt="logotipo">
+</div>
+	<nav>
+		<ul>
+			<li><a href="#">SOBRE NOSOTROS</a></li>
+			<li><a href="#">ADMISIÓN</a></li>
+			<li><a href="#">SERVIVIOS</a></li>
+			<li><a href="#">CONTACTO</a></li>
+		</ul>
+	</nav
+</header>
+	<section class>
+
+
+	</section>
+
+
+
+</body>
+
+</html>
